@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack en gestor Vite
 
 Pasos para ejecutar proyecto:
 
